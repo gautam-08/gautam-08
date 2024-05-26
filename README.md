@@ -6,12 +6,16 @@
 
 🌱 I’m currently learning **MERN Stack**
 
+👨‍💻 Know about me : [My_Portfolio](gautam-angolkar.netlify.app)
+
 📫 How to reach me: gautamangolkar0408@gmail.com
 
 ## Skills:
-- **Languages:** C, Python
-- **Web Development:** HTML, CSS, Javascript, Bootstrap, Material-UI, React Js
-- **Version Control:** Git, GitHub
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,bootstrap,react,git,github,vim" />
+  </a>
+</p>
 
 ## Connect with me:
 - GitHub: [gautam-08](https://github.com/gautam-08)
