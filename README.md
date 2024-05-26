@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning **MERN Stack**
 
-👨‍💻 Know about me : [My_Portfolio](gautam-angolkar.netlify.app)
+👨‍💻 Know about me : gautam-angolkar.netlify.app
 
 📫 How to reach me: gautamangolkar0408@gmail.com
 
